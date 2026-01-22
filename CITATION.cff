@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mie Scattering Imaging Post-Processing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Noé
+    family-names: Monnier
+    email: noe.monnier@etu.univ-orleans.fr
+    affiliation: Laboratoire PRISME
+    orcid: 'https://orcid.org/0009-0008-5498-9412'
+repository-code: 'https://github.com/NoeMonnier/PostProc_MieScattering_2D_3D'
+abstract: >-
+  A post processing code written in MATLAB to compute flame
+  contour and 3D flame reconstruction from Mie Scattering
+  imaging flame videos.
+keywords:
+  - Turbulent combustion
+  - Post Processing
+  - Mie Scattering
+  - Tomography
